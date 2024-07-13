@@ -1,3 +1,12 @@
+## In the KVP10k dataset, the preparation stage involves downloading all the data and preparing the files for training. In this repository, the data is already prepared and processed, making it ready for training.   
+Here are the links for the data:   
+1. https://huggingface.co/datasets/alessandrorusso21/KVP10k
+
+
+
+
+  
+
 ## 1. Introduction:
 
 **KVP10k** is a dataset of 10,000 pages annotated for Key-Value Pair (KVP) extraction from business documents, featuring linked rectangles, from value to its matching key, and text labels.<br>
